@@ -1,0 +1,7 @@
+faiss-cpu
+numpy>=1.25.0
+pandas
+streamlit
+scikit-learn
+sentence-transformers
+
